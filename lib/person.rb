@@ -3,5 +3,6 @@ class Person
  :height, :weight, :handed, :complexion, :T_Shirt_size, :wrist_size,
  :glove_size, :pant_length, :pant_width
  
- 
+ def initialize(attributes)
+   
 end
